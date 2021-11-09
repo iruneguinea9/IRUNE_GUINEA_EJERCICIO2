@@ -1,5 +1,11 @@
 Nuevo archivo
 otra linea
 otra linea mas
+<<<<<<< HEAD
 Nueva linea 1
 Nueva linea 2
+=======
+Nuevas lineas
+Nuevas lineas 2
+Nuevas lineas 3
+>>>>>>> irune_guinea_rama

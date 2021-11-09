@@ -1,1 +1,2 @@
 Fichero de prueba2
+Creo nueva linea en fichero 2

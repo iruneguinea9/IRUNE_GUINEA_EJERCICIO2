@@ -1,3 +1,6 @@
 Nuevo archivo
 otra linea
 otra linea mas
+Nuevas lineas
+Nuevas lineas 2
+Nuevas lineas 3
